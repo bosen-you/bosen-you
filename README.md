@@ -12,6 +12,12 @@
 - A beginner studies comupter language.
 ---
 
+![Rank](https://img.shields.io/badge/Rank-Diamond%20God%20(Lv.∞)-b9f2ff?style=for-the-badge&logo=codestream&logoColor=000000)
+
+![Trophy](https://img.shields.io/badge/Trophy-Supreme%20Champion-FFD700?style=for-the-badge&logo=editorconfig&logoColor=black)
+
+![Rubik](https://img.shields.io/badge/Logic-Rubik's%20Solver-EE4035?style=for-the-badge&logo=abbvie&logoColor=white)
+
 ### 🛠 Tech Stack
 
 #### 💻 Programming Languages
