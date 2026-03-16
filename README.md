@@ -2,6 +2,10 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bosen-you&label=Profile%20Views&color=0e75b6&style=flat" alt="bosen-you" />
+  <br>
+  <img src="https://img.shields.io/badge/Rank-Diamond%20God%20(Lv.∞)-b9f2ff?style=for-the-badge&logo=codestream&logoColor=000000" alt="Rank Diamond God" />
+  <img src="https://img.shields.io/badge/Trophy-Supreme%20Champion-FFD700?style=for-the-badge&logo=editorconfig&logoColor=black" alt="Trophy Champion" />
+  <img src="https://img.shields.io/badge/Logic-Rubik's%20Solver-EE4035?style=for-the-badge&logo=abbvie&logoColor=white" alt="Rubik's Solver" />
 </p>
 
 ### 🚀 About Me
